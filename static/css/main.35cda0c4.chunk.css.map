@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,mJAEY,CACZ,kCAAmC,CACnC,iCACF,CAEA,KACE,yEAEF,CARA,6BACI,oBACJ","file":"main.35cda0c4.chunk.css","sourcesContent":[".btn-ext{\n\n    width: 100% !important;\n}\n.btn-primary-custom{\n    width: 100% !important;\n}"]}
